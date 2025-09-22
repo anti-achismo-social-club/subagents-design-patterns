@@ -7,7 +7,6 @@ A comprehensive collection of 21 specialized agents implementing the agentic des
 This repository contains implementations of all 21 core patterns from the book, organized into specialized agents that can be deployed in AI systems. Each agent follows the scientific principles and methodologies outlined in the original work, providing reliable and well-tested approaches to agent design.
 
 **Source Material**: [Agentic Design Patterns](https://github.com/anti-achismo-social-club/agentic-design-patterns) by Antonio Gulli
-**Architecture Inspiration**: [wshobson/agents](https://github.com/wshobson/agents) - Simple, flat structure focused on functionality
 
 ## Agent Categories
 
@@ -138,7 +137,6 @@ When adding new agents or modifying existing ones:
 
 - **Original Patterns**: Antonio Gulli - "Agentic Design Patterns"
 - **Source Repository**: [anti-achismo-social-club/agentic-design-patterns](https://github.com/anti-achismo-social-club/agentic-design-patterns)
-- **Architecture Reference**: [wshobson/agents](https://github.com/wshobson/agents)
 
 ## License
 
