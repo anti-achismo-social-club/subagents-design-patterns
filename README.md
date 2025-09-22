@@ -135,8 +135,7 @@ When adding new agents or modifying existing ones:
 
 ## Credits
 
-- **Original Patterns**: Antonio Gulli - "Agentic Design Patterns"
-- **Source Repository**: [anti-achismo-social-club/agentic-design-patterns](https://github.com/anti-achismo-social-club/agentic-design-patterns)
+- **Original Patterns**: Antonio Gulli - ["Agentic Design Patterns"](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018)
 
 ## License
 
