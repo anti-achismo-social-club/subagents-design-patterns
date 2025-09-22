@@ -55,7 +55,7 @@ Enterprise-grade patterns for production systems and complex environments.
 Run the installation script to set up all agents:
 
 ```bash
-./install.sh
+curl -fsSL https://raw.githubusercontent.com/anti-achismo-social-club/subagents-design-patterns/main/install.sh | bash
 ```
 
 Or manually copy the agents directory to your AI system's agent folder.
